@@ -3,3 +3,4 @@
 * From: North Carolina, USA
 * Favorite food: Pizza
 * Hobby: Stackoverflow
+* Favorite color: blue
